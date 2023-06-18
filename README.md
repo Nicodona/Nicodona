@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nicodona
 - 👀 I’m interested in software development cybersecurity and network administration
-- 🌱 I’m currently learning flutter cybersecurity 
+- 🌱 tuning IT skiils in the development of softwae aided agriculture
 - 💞️ I’m looking to collaborate on community challenge and solutions 
 - 📫 get to me on Facebook LinkedIn as Njei nicodona
 
